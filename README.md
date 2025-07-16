@@ -1,6 +1,8 @@
 
 # 🦁 LionVest AI – Intelligent Investment Recommendation System
 
+# [Demo](https://github.com/Pathaan/Finance_Advisor_AI/blob/main/Demo.mp4)
+
 LionVest AI is a next-generation investment analytics platform that leverages the power of Google Gemini and Streamlit to deliver intelligent, data-driven insights for the Indian stock market. Designed for investors and analysts alike, it seamlessly integrates real-time stock performance, fundamental metrics, and market sentiment to generate informed and personalised investment recommendations.
 
 By combining advanced AI agents through the Agno framework with a sleek, interactive UI, LionVest AI transforms complex financial data into actionable strategies—enabling users to make confident, research-backed decisions in a dynamic market environment.
@@ -11,7 +13,7 @@ In today’s fast-evolving financial ecosystem, where data complexity, market vo
 # What is Agno?
 Agno is a modular, developer-friendly framework for creating, orchestrating, and managing multi-agent AI systems. Unlike traditional monolithic models, Agno allows you to build task-specific agents that can reason, collaborate, and use tools to solve complex problems. Agents in Agno are modular — each one with a defined role (like a researcher, summarizer, analyst, or strategist), and can communicate with other agents or external tools like APIs, databases, or LLMs.
 
-# In the finance domain, Agno facilitates workflows that require structured reasoning, data interpretation, and multi-step decision-making — such as portfolio optimization, risk assessment, credit analysis, or investment research. It acts as the orchestration layer where each agent contributes to a holistic financial analysis pipeline.
+ In the finance domain, Agno facilitates workflows that require structured reasoning, data interpretation, and multi-step decision-making — such as portfolio optimization, risk assessment, credit analysis, or investment research. It acts as the orchestration layer where each agent contributes to a holistic financial analysis pipeline.
 
 # What is Gemini?
 Gemini is Google’s multimodal, next-generation LLM that excels in understanding and generating text, analyzing structured and unstructured data, and performing high-level reasoning. With support for tool usage and API calls, Gemini is ideal for building intelligent agents that not only understand financial queries but can also generate insights, summarize news, interpret charts, and adapt to real-time data feeds.
