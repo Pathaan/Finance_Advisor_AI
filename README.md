@@ -8,7 +8,7 @@ LionVest AI is a next-generation investment analytics platform that leverages th
 By combining advanced AI agents through the Agno framework with a sleek, interactive UI, LionVest AI transforms complex financial data into actionable strategies—enabling users to make confident, research-backed decisions in a dynamic market environment.
 
 # Agno + Gemini Agents in the Financial Domain: Redefining Intelligent Finance
-In today’s fast-evolving financial ecosystem, where data complexity, market volatility, and decision speed converge, the integration of intelligent agent-based systems is revolutionizing the way institutions approach analysis, forecasting, and investment strategy. Two key innovations leading this transformation are Agno, a multi-agent orchestration framework, and Gemini, Google’s advanced large language model (LLM). When combined, they enable powerful, specialized AI agents tailored to meet the unique challenges of the finance domain.
+In today’s fast-evolving financial ecosystem, where data complexity, market volatility, and decision speed converge, the integration of intelligent agent-based systems is revolutionising the way institutions approach analysis, forecasting, and investment strategy. Two key innovations leading this transformation are Agno, a multi-agent orchestration framework, and Gemini, Google’s advanced large language model (LLM). When combined, they enable powerful, specialized AI agents tailored to meet the unique challenges of the finance domain.
 
 # What is Agno?
 Agno is a modular, developer-friendly framework for creating, orchestrating, and managing multi-agent AI systems. Unlike traditional monolithic models, Agno allows you to build task-specific agents that can reason, collaborate, and use tools to solve complex problems. Agents in Agno are modular — each one with a defined role (like a researcher, summarizer, analyst, or strategist), and can communicate with other agents or external tools like APIs, databases, or LLMs.
@@ -37,6 +37,46 @@ Aggregates insights from all other agents to create a final investment report �
 
 This multi-agent architecture ensures modular intelligence, allowing independent validation, scalability, and high interpretability — critical for compliance-heavy and data-sensitive industries like finance.
 
+
+# Agentic AI 
+Agentic AI refers to a class of artificial intelligence systems designed to operate as autonomous agents capable of making decisions, pursuing goals, and interacting proactively with their environment and users. Unlike traditional AI models that passively respond to prompts, Agentic AI exhibits initiative, planning, reasoning, and adaptability—mimicking human-like agency in both thought and action.
+
+At the heart of Agentic AI lies the concept of agency—the capacity to act independently in pursuit of objectives. These systems can break down high-level goals into subtasks, reason about them, execute actions, evaluate outcomes, and adjust their strategies accordingly. This makes them particularly valuable in complex, dynamic environments where predefined instructions are insufficient.
+
+Key Components of Agentic AI
+Goal-Oriented Behavior: Agentic AIs are driven by defined objectives. For instance, if tasked with researching a topic, an agent might autonomously search the web, extract relevant information, summarize findings, and report results—without constant human intervention.
+
+Planning and Reasoning: These systems use cognitive architectures or AI planning algorithms (like PDDL-based planners or neural-symbolic hybrids) to devise step-by-step plans to achieve their goals. They can adapt plans based on new data or failed attempts, much like how humans revise strategies.
+
+Memory and Context Awareness: Agentic AI can utilize short-term and long-term memory to maintain context over time. This allows agents to remember user preferences, past decisions, or ongoing tasks, making interactions more coherent and productive.
+
+Autonomy and Decision-Making: Such systems can make choices based on preferences, ethical constraints, or learned behavior. For example, an AI personal assistant may choose the best flight for a user based on past travel habits and current schedule.
+
+Tool Use and Environment Interaction: Agentic AI agents often leverage external tools such as APIs, web browsers, or file systems. Frameworks like LangChain, OpenAI’s Function Calling, or Auto-GPT are examples where agents use modular tools to perform complex workflows like data analysis or task automation.
+
+Applications
+Agentic AI has wide-ranging applications:
+
+Productivity Agents: Automating workflows (e.g., summarizing emails, scheduling meetings, preparing reports).
+
+Customer Service: Handling dynamic conversations with memory and goal-driven follow-up actions.
+
+Research and Knowledge Work: Assisting in literature reviews, legal analysis, or data exploration.
+
+Robotics and Autonomous Systems: Guiding physical agents like drones or self-driving cars to perform complex missions.
+
+Challenges and Ethical Considerations
+While promising, Agentic AI raises several challenges:
+
+Reliability: Ensuring consistent performance across tasks and edge cases.
+
+Alignment: Aligning agent goals with human values to prevent unintended behaviors.
+
+Transparency: Understanding the reasoning and decision-making of autonomous agents.
+
+Security: Preventing misuse or unintended consequences when agents have access to tools or sensitive information.
+
+
 # Benefits in the Financial Sector
 📊 Enhanced decision quality with AI-driven analytics
 
@@ -50,7 +90,7 @@ This multi-agent architecture ensures modular intelligence, allowing independent
 
 ## 🚀 Features
 
-- 📈 Compare stock performance over a 3-month period using Yahoo Finance data.
+- 📈 Compare stock performance over 3 months using Yahoo Finance data.
 - 🧠 Get AI-generated insights from multiple intelligent agents:
   - `Market Analyst`: Evaluates stock trends and ranks them by performance.
   - `Company Researcher`: Provides business overview, sector details, and summarizes latest news.
